@@ -1,0 +1,1 @@
+This project working is alinged in a way where it would be classifying the resumes based on the roles and storing the resumes in a seperate folder according to the roles. Over here i have worked with text processing or nlp, vectorization method.
